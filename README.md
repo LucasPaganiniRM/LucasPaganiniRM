@@ -18,9 +18,9 @@
 ## 🚀 Sobre Mim
 Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenho foco em **Inteligência Artificial/Machine Learning** e experiência em entregar projetos que resolvem problemas reais.
 
-- 🔭 Atualmente trabalhando em: **[NICEPLANET]**
-- 🌱 Estudando profundamente: **[LANGGRAPH/PYTORCH]**
-- 🎓 Formação: **[GRADUANDO EM CIÊNCIAS DA COMPUTAÇÃO]**
+- 🔭 Atualmente trabalhando em: **NICEPLANET**
+- 🌱 Estudando profundamente: **LANGGRAPH/PYTORCH**
+- 🎓 Formação: **GRADUANDO EM CIÊNCIAS DA COMPUTAÇÃO**
 
 ---
 
@@ -28,7 +28,7 @@ Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenh
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-0.2.56-green?style=flat-square" />
   <img src="https://img.shields.io/badge/LangGraph-0.2.56-green?style=flat-square" />
 

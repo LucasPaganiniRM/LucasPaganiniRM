@@ -27,8 +27,8 @@ Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenh
 ## 🛠️ Tech Stack & Ferramentas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-0.2.56-green?style=flat-square" />
   <img src="https://img.shields.io/badge/LangGraph-0.2.56-green?style=flat-square" />
 

@@ -42,16 +42,15 @@ Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenh
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Agente de IA Tradutor e Gerador de Legendas]** | Agente de IA que gera legendas para vídeos e traduz do Inglês para Português. [Link Demo/Deploy](url) | `Python` `Hugging Face` `Docker` |
+| **Agente de IA Tradutor e Gerador de Legendas** | Agente de IA que gera legendas para vídeos e traduz do Inglês para Português. [Link Demo/Deploy](url) | `Python` `Hugging Face` `Docker` |
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Minha Frequência
 
 <div align="center">
   <a href="https://github.com/LucasPaganiniRM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPaganiniRM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPaganiniRM&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasPaganiniRM&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 

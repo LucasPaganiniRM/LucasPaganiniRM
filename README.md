@@ -58,5 +58,6 @@ Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenh
 
 ---
 <p align="center">
-  <i>"Qualidade é o melhor plano de negócios."</i> 🚀
+  <i>"Nada proporciona melhor capacidade de superação e resistência aos problemas e dificuldades em geral do que a consciência de ter uma missão a cumprir na vida." </i>
+  <i>"- Vitor Frankl" </i>
 </p>

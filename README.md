@@ -28,12 +28,12 @@ Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenh
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Langgraph-1C3C3C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=c&huggingface=white"/>  
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-0.2.56-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-0.2.56-green?style=flat-square" />
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-F05032?style=flat&logo=git&logoColor=white"/>
 
 </div>
 

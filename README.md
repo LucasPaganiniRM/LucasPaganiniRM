@@ -24,7 +24,7 @@ Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenh
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🛠️ Linguagens e Frameworks
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -34,7 +34,6 @@ Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenh
   <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-F05032?style=flat&logo=git&logoColor=white"/>
-
 </div>
 
 <br>
@@ -43,18 +42,16 @@ Sou um Cientista de Dados, responsável por criar modelos que entregam ROI. Tenh
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Nome do Projeto 1]** | Uma breve descrição do que o projeto faz e o problema que resolve. [Link Demo/Deploy](url) | `React` `Node` `MongoDB` |
-| **[Nome do Projeto 2]** | Sistema desenvolvido para [Finalidade]. Inclui autenticação e dashboard. [Link Demo/Deploy](url) | `Python` `Django` `Postgres` |
-| **[Nome do Projeto 3]** | API RESTful documentada com Swagger para [Finalidade]. | `Java` `Spring Boot` |
+| **[Agente de IA Tradutor e Gerador de Legendas]** | Agente de IA que gera legendas para vídeos e traduz do Inglês para Português. [Link Demo/Deploy](url) | `Python` `Hugging Face` `Docker` |
 
 ---
 
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario-github]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario-github]&layout=compact&theme=dracula"/>
+  <a href="https://github.com/LucasPaganiniRM/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[LucasPaganiniRM]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[LucasPaganiniRM]&layout=compact&theme=dracula"/>
   </a>
 </div>
 
